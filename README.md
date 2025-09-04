@@ -4,6 +4,8 @@
   - *Explains the purpose of the project, what it does, and the problem it aims to solve.
   - recap and apply all the lesson from odin-html
   - use git to make changes, commit and push changes to remote repository on GitHub
+  - apply uniques tags and attributes in html to make webpage that has image and links.
+  - demonstrate the ability to create relative and absolute links.
 
 **Installation and Usage Instructions:** 
   - *Provides steps on how to set up, install, and run the project, including any prerequisites or dependencies.
