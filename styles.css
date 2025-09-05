@@ -1,0 +1,26 @@
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.h1 {
+    color: red;
+    background-color: blue;
+    border-color: black;
+}
+
+.h2 {
+    color: green;
+    background-color: black;
+    border-color: aqua;
+}
+
+.h3 {
+    color: yellow;
+    background-color: black;
+    border-color: rebeccapurple;
+}
+
+body p {
+    color: brown;
+}
